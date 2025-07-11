@@ -1,0 +1,42 @@
+[
+  {
+    "name": "SIP Server",
+    "worksheet": "SIP",
+    "url": "https://docs.genesys.com/extensions/Repository/cache/public/IP%20Servers/8.1/sip81rn.html"
+  },
+  {
+    "name": "Interaction Concentrator",
+    "worksheet": "ICON",
+    "url": "https://docs.genesys.com/extensions/Repository/cache/public/Reporting%20and%20Analytics/Interaction%20Concentrator%20(ICON)/8.1/icon_81rn.html"
+  },
+  {
+    "name": "Universal Routing Server",
+    "worksheet": "URS",
+    "url": "https://docs.genesys.com/extensions/Repository/cache/public/Universal%20Routing/8.1/urs81rn.html"
+  },
+  {
+    "name": "T-Server for Avaya TSAPI",
+    "worksheet": "TServer-TSAPI",
+    "url": "https://docs.genesys.com/extensions/Repository/cache/public/T-Servers/8.1/avaya-tsapi81rn.html"
+  },
+  {
+    "name": "IVR T-Server",
+    "worksheet": "IVR",
+    "url": "https://docs.genesys.com/extensions/Repository/cache/public/IVR/8.5/ivr-svr85rn.html"
+  },
+  {
+    "name": "Integration Server",
+    "worksheet": "GIS",
+    "url": "https://docs.genesys.com/extensions/Repository/cache/public/SDK/Interaction%20SDK/7.6/gis76rn.html"
+  },
+  {
+    "name": "T-Server for Avaya Communication Manager",
+    "worksheet": "TServer-DLG",
+    "url": "https://docs.genesys.com/extensions/Repository/cache/public/T-Servers/8.1/avaya_comm_mgr_81rn.html"
+  },
+  {
+    "name": "Network T-Server for Gen-Spec",
+    "worksheet": "NTS",
+    "url": "https://docs.genesys.com/extensions/Repository/cache/public/T-Servers/8.1/n-tsvr-genspec81rn.html"
+  }
+]

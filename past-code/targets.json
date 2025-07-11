@@ -1,0 +1,67 @@
+[
+  {
+    "name": "Configuration Server",
+    "worksheet": "CONF",
+    "url": "https://docs.genesys.com/Documentation/RN/8.5.x/cfgsvr85rn/cfgsvr85rn"
+  },
+  {
+    "name": "Local Control Agent",
+    "worksheet": "LCA",
+    "url": "https://docs.genesys.com/Documentation/RN/8.5.x/lca85rn/lca85rn"
+  },
+  {
+    "name": "Message Server",
+    "worksheet": "MSG",
+    "url": "https://docs.genesys.com/Documentation/RN/8.5.x/msg-svr85rn/msg-svr85rn"
+  },
+  {
+    "name": "Solution Control Server",
+    "worksheet": "SCS",
+    "url": "https://docs.genesys.com/Documentation/RN/8.5.x/scs85rn/scs85rn"
+  },
+  {
+    "name": "MCP (GVP)",
+    "worksheet": "MCP",
+    "url": "https://docs.genesys.com/Documentation/RN/9.0.x/gvp-mcp90rn/gvp-mcp90rn"
+  },
+  {
+    "name": "RM (Resource Manager)",
+    "worksheet": "RM",
+    "url": "https://docs.genesys.com/Documentation/RN/9.0.x/gvp-rm90rn/gvp-rm90rn"
+  },
+  {
+    "name": "GAX (Genesys Administrator Extension)",
+    "worksheet": "GAX",
+    "url": "https://docs.genesys.com/Documentation/RN/9.0.x/gax90rn/gax90rn"
+  },
+  {
+    "name": "Pulse",
+    "worksheet": "PULSE",
+    "url": "https://docs.genesys.com/Documentation/RN/9.0.x/pulse90rn/pulse90rn"
+  },
+  {
+    "name": "Pulse Collector",
+    "worksheet": "PULSECOL",
+    "url": "https://docs.genesys.com/Documentation/RN/9.0.x/pulse-collr90rn/pulse-collr90rn"
+  },
+  {
+    "name": "Infomart",
+    "worksheet": "INFO",
+    "url": "https://docs.genesys.com/Documentation/RN/8.5.x/gim85rn/gim85rn"
+  },
+  {
+    "name": "Stat Server",
+    "worksheet": "STAT",
+    "url": "https://docs.genesys.com/Documentation/RN/8.5.x/stat-svr85rn/stat-svr85rn"
+  },
+  {
+    "name": "Interaction Server",
+    "worksheet": "IXN",
+    "url": "https://docs.genesys.com/Documentation/RN/9.0.x/es-ixn-svr90rn/es-ixn-svr90rn"
+  },
+  {
+    "name": "DB Server",
+    "worksheet": "DBS",
+    "url": "https://docs.genesys.com/Documentation/RN/8.5.x/fr-dbsvr85rn/fr-dbsvr85rn"
+  }
+]
